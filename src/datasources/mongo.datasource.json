@@ -1,0 +1,10 @@
+{
+  "name": "mongo",
+  "connector": "mongodb",
+  "url": "mongodb://admin:12345789@mongo/iotbb",
+  "host": "mongo",
+  "port": 0,
+  "user": "admin",
+  "password": "12345789",
+  "database": "iotbb"
+}
